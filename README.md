@@ -8,20 +8,25 @@ I'm currently a student at St. Clair County Community College and I'm looking to
 
 I develop mainly back-end projects and I'm not very good at design or front end. A lot of my public projects have some really bad code, but most of them are from quite some time ago.
 
-🔭 I’m currently working on
+# What am I doing with my life right now?
 
 - Nothing
 
-🌱 I’m currently learning
+# What am I learning right now?
 
 - C#
 - Game development (using Unity)
+
+# What do I want to learn?
+
+- C++
+- Some design
  
-👯 I’m looking to collaborate on
+# What do I want to work on?
 
 - Some game so I can learn more game development.
 
-📫 How to reach me:
+# Contact me here:
 
 - You can email me @ steven@is-just-a.dev
 - You can add me on discord: Steven4547466#1407
