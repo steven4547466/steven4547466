@@ -8,6 +8,16 @@ I'm currently a student at St. Clair County Community College and I'm looking to
 
 I develop mainly back-end projects and I'm not very good at design or front end. A lot of my public projects have some really bad code, but most of them are from quite some time ago.
 
+---
+
+<img align="left" alt="Steven4547466's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=steven4547466&show_icons=true&theme=radical">
+
+---
+
+<img align="left" alt="Steven4547466's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven4547466&theme=radical&layout=compact">
+
+
+
 ### What am I doing with my life right now?
 
 - Nothing
