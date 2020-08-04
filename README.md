@@ -10,11 +10,11 @@ I develop mainly back-end projects and I'm not very good at design or front end.
 
 ---
 
-<img align="left" alt="Steven4547466's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=steven4547466&show_icons=true&theme=radical">
+<img alt="Steven4547466's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=steven4547466&show_icons=true&theme=radical">
 
 ---
 
-<img align="left" alt="Steven4547466's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven4547466&theme=radical&layout=compact">
+<img alt="Steven4547466's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven4547466&theme=radical&layout=compact">
 
 
 
