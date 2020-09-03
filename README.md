@@ -18,7 +18,7 @@ I develop mainly back-end projects and I'm not very good at design or front end.
 
 ### What am I doing with my life right now?
 
-- Nothing
+Currently I'm trying to better myself in C# development. Recently I made [Overdose](https://github.com/steven4547466/Overdose), a plugin for a game called SCP: Secret Laboratory. I plan to make more plugins for this game, so if you have suggestions be sure to get in touch with me at the contacts listed below.
 
 ### What am I learning right now?
 
