@@ -20,7 +20,7 @@ I develop mainly back-end projects and I'm not very good at design or front end.
 
 Oh boy have I advanced so quickly in my C# endevours. However, I did expect this because I have taken classes in school that taught java, and they are really similar languages. C# is literally java microsoft edition.
 
-I'm investing a lot of time into my [AdvancedSubclassing](https://github.com/steven4547466/AdvancedSubclassing) SCP:SL plugin. It's come a really long way and I'm happy with it. This plugin can do basically what other plugins do, all in one. If you wanted Serpents Hand? Make a SH subclass that only affects spawn waves. Want people to have cool abilites? Give them the abilities then! Want to request abilites? Then contact me at one of the listed contacts below and we can talk. I have big plans for the initial release of this plugin, but I want the first full release to be as bug-free as possible. So it's going to stay in its "pre" stage until that's done.
+[AdvancedSubclassing](https://github.com/steven4547466/AdvancedSubclassing) has come so far and I'm so happy with its current state. I'm continuing to add new stuff, but it's slowed down now.
 
 <img src="https://github.com/steven4547466/wakatime-stats/blob/master/images/stat.svg" alt="Wakatime stats"/>
 
