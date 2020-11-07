@@ -22,7 +22,8 @@ Oh boy have I advanced so quickly in my C# endevours. However, I did expect this
 
 [AdvancedSubclassing](https://github.com/steven4547466/AdvancedSubclassing) has come so far and I'm so happy with its current state. I'm continuing to add new stuff, but it's slowed down now.
 
-<img src="https://github.com/steven4547466/wakatime-stats/blob/master/images/stat.svg" alt="Wakatime stats"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### What am I learning right now?
 
