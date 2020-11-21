@@ -2,7 +2,7 @@
 
 I'm Steven, I'm a programmer. I can do many things with multiple coding languages. I don't have many big coding projects going on right now, but I'm always looking to improve and do more.
 
-I mainly use JavaScript, specifically Node.js, apart from that, though, I know Java, Python, HTML/CSS, a fair bit of Lua (why do your lists start at 1?), some php (but imagine using php in 2020). I'm certified in Java, JavaScript, Python, and HTML/CSS.
+I mainly use JavaScript, specifically Node.js, apart from that, though, I know Java, Python, HTML/CSS, a fair bit of Lua (why do your lists start at 1?), some php (but imagine using php in 2020). I'm certified in Java, JavaScript, Python, and HTML/CSS. I'm currently doing classes to be certified in C# and software development.
 
 I'm currently a student at St. Clair County Community College and I'm looking to major in Computer Science and minor in Mathematics. Through SC4, I should obtain an Associates degree and I want to transfer that to Michigan Tech, or another University.
 
@@ -18,7 +18,7 @@ I develop mainly back-end projects and I'm not very good at design or front end.
 
 ### What am I doing with my life right now?
 
-Oh boy have I advanced so quickly in my C# endevours. However, I did expect this because I have taken classes in school that taught java, and they are really similar languages. C# is literally java microsoft edition.
+Literally just C#.
 
 [AdvancedSubclassing](https://github.com/steven4547466/AdvancedSubclassing) has come so far and I'm so happy with its current state. I'm continuing to add new stuff, but it's slowed down now.
 
