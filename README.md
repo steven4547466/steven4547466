@@ -2,7 +2,7 @@
 
 I'm Steven, I'm a programmer (obviously). I can do many things with multiple coding languages. I don't have many big coding projects going on right now, but I'm always looking to improve and do more.
 
-I mainly use JavaScript, specifically Node.js, apart from that, though, I know Java, Python, HTML/CSS, a fair bit of Lua (why do your lists start at 1?), some php (but imagine using php in 2020). I'm certified in Java, JavaScript, Python, and HTML/CSS. I'm currently doing classes to be certified in C# and software development.
+I mainly use JavaScript, specifically Node.js, apart from that, though, I know Java, Python, HTML/CSS, a fair bit of Lua (why do your lists start at 1?), some php (but imagine using php in 2020). I'm certified in C# (Software Development Fundamentals), Java, JavaScript, Python, and HTML/CSS. You can see them [here](https://www.youracclaim.com/users/steven-webster.6f16f8c9/badges).
 
 I mainly develop projects that don't have UI or anything fancy and I'm not very good at design or front end. A lot of my public projects have some really bad code, but most of them are from quite some time ago.
 
@@ -16,16 +16,13 @@ I mainly develop projects that don't have UI or anything fancy and I'm not very 
 
 ### What am I doing with my life right now?
 
-Literally just C#.
-
-[AdvancedSubclassing](https://github.com/steven4547466/AdvancedSubclassing) has come so far and I'm so happy with its current state. I'm continuing to add new stuff, but it's slowed down now.
+Not much.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ### What am I learning right now?
 
-- C#
 - Game development (using Unity)
 
 ### What do I want to learn?
