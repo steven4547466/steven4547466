@@ -23,7 +23,7 @@ Not much.
 
 ### What am I learning right now?
 
-- Game development (using Unity)
+- ~~Game development (using Unity)~~ Nothing
 
 ### What do I want to learn?
 
