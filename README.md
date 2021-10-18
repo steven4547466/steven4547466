@@ -36,5 +36,5 @@ Not much.
 
 ### Contact me here:
 
-- You can email me @ steven@is-just-a.dev
+- You can email me @ contact@stevenwebster.dev
 - You can add me on discord: Steven4547466#1407
