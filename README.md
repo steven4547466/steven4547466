@@ -1,6 +1,8 @@
+# Due to various mental health things, I don't really program anymore.
 
 
-I'm Steven, I'm a programmer (obviously). I can do many things with multiple coding languages. I don't have many big coding projects going on right now, but I'm always looking to improve and do more.
+
+I'm Steven, I'm a (was a) programmer (obviously). I can do many things with multiple coding languages. I don't have many big coding projects going on right now, but I'm always looking to improve and do more.
 
 I mainly use JavaScript, specifically Node.js, apart from that, though, I know Java, Python, HTML/CSS, a fair bit of Lua (why do your lists start at 1?), some php (but imagine using php in 2020). I'm certified in C# (Software Development Fundamentals), JavaScript, Python, and HTML/CSS. You can see them [here](https://www.youracclaim.com/users/steven-webster.6f16f8c9/badges).
 
@@ -16,25 +18,23 @@ I mainly develop projects that don't have UI or anything fancy and I'm not very 
 
 ### What am I doing with my life right now?
 
-Not much.
+Collapsing
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ### What am I learning right now?
 
-- ~~Game development (using Unity)~~ Nothing
+- Nothing
 
 ### What do I want to learn?
 
-- C++
-- Some design
+- Nothing
  
 ### What do I want to work on?
 
-- Some game so I can learn more game development.
+- Nothing
 
 ### Contact me here:
 
-- You can email me @ contact@stevenwebster.dev
-- You can add me on discord: `steven4547466` (though I don't always accept friend requests, email me first)
+Don't.
