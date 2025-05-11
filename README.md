@@ -1,8 +1,4 @@
-# Due to various mental health things, I don't really program anymore.
-
-
-
-I'm Steven, I'm a (was a) programmer (obviously). I can do many things with multiple coding languages. I don't have many big coding projects going on right now, but I'm always looking to improve and do more.
+I'm Steven, I'm a programmer... sometimes. I can do many things with multiple coding languages. I don't have many big coding projects going on right now, but I'm always looking to improve and do more.
 
 I mainly use JavaScript, specifically Node.js, apart from that, though, I know Java, Python, HTML/CSS, a fair bit of Lua (why do your lists start at 1?), some php (but imagine using php in 2020). I'm certified in C# (Software Development Fundamentals), JavaScript, Python, and HTML/CSS. You can see them [here](https://www.youracclaim.com/users/steven-webster.6f16f8c9/badges).
 
